@@ -1,5 +1,5 @@
 ## DHI-e Foundation
-# DHI-E Foundation Website Repository
+# DHI-E Foundation Web Repository
 
 This repository is dedicated to the **DHI-E Foundation** official website:  
 🌐 [www.dhi-e.org](https://www.dhi-e.org)
